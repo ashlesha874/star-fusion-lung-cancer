@@ -9,7 +9,7 @@
 ## Overview
 End-to-end pipeline for EGFR gene fusion detection in lung cancer
 SRA samples (n=1,387 SRR IDs, SRP074349). Runs at scale on HPC
-using PBS array jobs across 40 compute nodes simultaneously.
+using PBS array jobs across parallel compute nodes simultaneously.
 
 Downstream aim: compare gene expression between
 EGFR fusion-positive vs EGFR fusion-negative samples.
