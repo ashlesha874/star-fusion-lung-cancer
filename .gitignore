@@ -1,0 +1,15 @@
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.sra
+Fusion_result/
+Trimmed_fastq/
+Raw_fastqc/
+Trimmed_fastqc/
+work/
+*.log
+.DS_Store
+__pycache__/

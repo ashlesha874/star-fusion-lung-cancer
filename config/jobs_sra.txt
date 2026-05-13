@@ -1,0 +1,2 @@
+# Full paths to .sra files
+# Generate with: find . -name "*.sra" > config/jobs_sra.txt

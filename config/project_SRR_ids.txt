@@ -1,0 +1,4 @@
+# Add your SRR IDs here, one per line
+# Example:
+# SRR3474721
+# SRR3474722

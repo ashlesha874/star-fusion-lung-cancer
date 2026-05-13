@@ -1,0 +1,2 @@
+# SRR IDs for STAR-Fusion
+# Same format as jobs_fastq.txt
