@@ -40,8 +40,7 @@ EGFR fusion+ve vs fusion-ve classification
 ## Scale
 - 1,387 total SRR IDs (paired + single end)
 - Processed in batches of 50
-- PBS array jobs: up to 40 nodes simultaneously
-- Per node: 48 CPUs, 120GB RAM
+- PBS array jobs
 
 ## Critical: module loading order
 STAR and STAR-Fusion require gcc/13.3.0 loaded first:
